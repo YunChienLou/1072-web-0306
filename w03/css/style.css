@@ -1,9 +1,9 @@
-#col3 img{
+.col3 img{
     width: 30%;
     margin:1.65%;
     float: left;
 }
-#col4 img{
+.col4 img{
     width: 21%;
     margin:1.9%;
     float: left;
